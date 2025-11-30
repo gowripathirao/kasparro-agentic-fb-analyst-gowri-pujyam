@@ -1,0 +1,23 @@
+{
+  "creatives": [
+    {
+      "id": "creative_variation_1",
+      "headline": "Comfort-first undergarments \u2014 Try 3 for 2",
+      "body": "Soft, breathable fabric designed for everyday comfort.",
+      "reasoning": "High CTR ads mention comfort in copy (data-driven)."
+    },
+    {
+      "id": "creative_variation_2",
+      "headline": "Invisible fit. All day confidence.",
+      "body": "Lightweight, seamless design for any outfit.",
+      "reasoning": "Target younger demographics; emphasize stealth fit."
+    },
+    {
+      "id": "creative_variation_3",
+      "headline": "Eco fabric undergarments \u2014 gentle on skin, gentle on earth",
+      "body": "Sustainable materials; highlight certifications.",
+      "reasoning": "Sustainability angle to improve brand lift."
+    }
+  ],
+  "generated_at": "2025-11-30T11:45:00Z"
+}

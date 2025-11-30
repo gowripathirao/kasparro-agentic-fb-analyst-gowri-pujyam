@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "generated_at": "2025-11-30T11:45:00Z"
+  },
+  "summary": {
+    "impressions": 145320,
+    "clicks": 4120,
+    "spend": 9580.75,
+    "purchases": 265,
+    "ctr": 0.028351,
+    "cpa": 36.1538,
+    "avg_cpc": 2.3254
+  },
+  "top_ads_by_ctr": [
+    {
+      "ad_id": "ad_17",
+      "ctr": 0.087,
+      "spend": 420.5
+    },
+    {
+      "ad_id": "ad_3",
+      "ctr": 0.062,
+      "spend": 310.0
+    }
+  ]
+}
